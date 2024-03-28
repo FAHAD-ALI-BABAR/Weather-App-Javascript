@@ -12,9 +12,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: #15202b;
     font-size: 15px;
-    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
     backdrop-filter: blur(80px);
 }
 .weather-card{
@@ -24,7 +23,8 @@ body{
     width: 500px;
     padding: 80px;
     text-align: center;
-    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+    background-color: #5755FE;
+     border-radius: 25px;
 }
 .search-bar{
     width: 100%;
